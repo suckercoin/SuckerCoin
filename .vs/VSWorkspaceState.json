@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CryptoSucker",
+    "\\CryptoSucker\\CryptoSucker",
+    "\\CryptoSucker\\CryptoSucker\\ClientApp",
+    "\\CryptoSucker\\CryptoSucker\\ClientApp\\src",
+    "\\CryptoSucker\\CryptoSucker\\ClientApp\\src\\Containers",
+    "\\CryptoSucker\\CryptoSucker\\ClientApp\\src\\Containers\\Buy",
+    "\\CryptoSucker\\CryptoSucker\\Pages"
+  ],
+  "SelectedNode": "\\CryptoSucker\\CryptoSucker\\ClientApp\\src\\Containers\\Buy\\Buy.tsx",
+  "PreviewInSolutionExplorer": false
+}
