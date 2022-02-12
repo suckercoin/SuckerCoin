@@ -1,7 +1,9 @@
-import React, { Component, useState } from 'react';
+import * as React from 'react';
+import { Component, useState } from 'react';
 import { Collapse, Container, Navbar, NavbarBrand, NavbarToggler, NavItem, NavLink } from 'reactstrap';
 import { Link } from 'react-router-dom';
 import './NavMenu.css';
+import { ConnectButton } from '../ConnectButton/ConnectButton';
 
 export function NavMenu() {
     //const displayName = NavMenu.name;
@@ -42,6 +44,7 @@ export function NavMenu() {
                     </ul>
                 </div>
 
+                <ConnectButton />
             </Navbar>
         </header>
     );
